@@ -1,0 +1,13 @@
+span{
+    display:inline-block;
+    height:30px;
+    line-height:30px;
+    background-color: red;
+    color:white;
+    margin-right:5px;
+    margin-top:10px;
+    font-size:24px;
+}
+span:hover{
+    cursor: pointer;
+}
